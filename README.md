@@ -4,7 +4,7 @@ Awareness of the problems caused by excessive waste is at an all-time high. Yet,
 
 Curb Alert allows users to share images of abandoned items that look ready for a second life, and to tag a map with the location of the items. Other users can then view the items and their location, and make their way to the items to pick them up on a first-come basis.
 
-In order to foster a healthy community, users who contribute items/locations are rewarded with in-app currency when the item is picked up. A user can then spend currency to hide existing posts from other users, giving them the opportunity to claim an item before anyone else.
+In order to foster a healthy community, users who contribute items/locations are rewarded with in-app currency when a new item is posted. A user can then spend currency to hide existing posts from other users, giving them the opportunity to claim an item before anyone else.
 
 ## Final Product
 
