@@ -10,23 +10,23 @@ In order to foster a healthy community, users who contribute items/locations are
 
 Welcome page
 
-!["welcome"]()
+!["welcome"](https://github.com/andreafinlay/curbalert/blob/master/docs/welcome.png?raw=true)
 
 Home page
 
-!["home"]()
+!["home"](https://github.com/andreafinlay/curbalert/blob/master/docs/home.png?raw=true)
 
 User profile
 
-!["profile"]()
+!["profile"](https://github.com/andreafinlay/curbalert/blob/master/docs/profile.png?raw=true)
 
 Adding a new post
 
-!["add post"]()
+!["add post"](https://github.com/andreafinlay/curbalert/blob/master/docs/add-post.gif?raw=true)
 
 Claiming an item
 
-!["claim item"]()
+!["claim item"](https://github.com/andreafinlay/curbalert/blob/master/docs/claim-item.gif?raw=true)
 
 ## Getting Started
 
