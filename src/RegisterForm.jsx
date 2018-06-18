@@ -8,7 +8,7 @@ import PlacesAutocomplete, {
 } from "react-places-autocomplete";
 import { Link } from "react-router-dom";
 
-Geocode.setApiKey(process.env.GOOGLE_API_KEY);
+Geocode.setApiKey(process.env.REACT_APP_GOOGLE_API_KEY);
 
 class RegisterForm extends Component {
 	constructor(props) {
