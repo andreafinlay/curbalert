@@ -20,13 +20,13 @@ User profile
 
 !["profile"](https://github.com/andreafinlay/curbalert/blob/master/docs/profile.png?raw=true)
 
+Profile (mobile view)
+
+!["profile mobile"]()
+
 Adding a new post
 
 !["add post"](https://github.com/andreafinlay/curbalert/blob/master/docs/add-post.gif?raw=true)
-
-Claiming an item
-
-!["claim item"](https://github.com/andreafinlay/curbalert/blob/master/docs/claim-item.gif?raw=true)
 
 ## Getting Started
 
