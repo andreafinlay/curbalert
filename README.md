@@ -22,7 +22,7 @@ User profile
 
 Profile (mobile view)
 
-!["profile mobile"]()
+!["profile mobile"](https://github.com/andreafinlay/curbalert/blob/master/docs/profile-mobile.png?raw=true)
 
 Adding a new post
 
