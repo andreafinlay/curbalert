@@ -10,15 +10,15 @@ In order to foster a healthy community, users who contribute items/locations are
 
 Welcome page
 
-!["welcome"](https://github.com/andreafinlay/curbalert/blob/master/docs/welcome.png?raw=true)
+!["welcome"]()
 
 Home page
 
-!["home"](https://github.com/andreafinlay/curbalert/blob/master/docs/home.png?raw=true)
+!["home"]()
 
 User profile
 
-!["profile"](https://github.com/andreafinlay/curbalert/blob/master/docs/profile.png?raw=true)
+!["profile"]()
 
 Profile (mobile view)
 
