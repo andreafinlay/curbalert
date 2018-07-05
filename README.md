@@ -30,18 +30,19 @@ Adding a new post
 
 ## Getting Started
 
-1. Clone this repository
-2. From within the project directory, install dependencies (`npm install`)
-3. From within the server directory, install dependencies (`npm install`)
-4. Create `.env` from `.env.example` in both the project and server directories
-5. From the server directory, run `knex migrate:latest` to create the database
-6. From the server directory, run `knex seed:run` to seed the database
-7. From the server directory, run `npm start`
-8. From the project directory, run `npm start`. The app will be automatically served at `localhost:3000`
+1.  Clone this repository
+2.  From within the project directory, install dependencies (`npm install`)
+3.  From within the server directory, install dependencies (`npm install`)
+4.  Create `.env` from `.env.example` in both the project and server directories
+5.  From the server directory, run `knex migrate:latest` to create the database
+6.  From the server directory, run `knex seed:run` to seed the database
+7.  From the server directory, run `npm start`
+8.  From the project directory, run `npm start`. The app will be automatically served at `localhost:3000`
 
 ## Dependencies
 
 Client-side:
+
 - React
 - React Router
 - Axios
@@ -57,6 +58,7 @@ Client-side:
 - Knex
 
 Server-side:
+
 - Bcrypt
 - BodyParser
 - Express
@@ -66,6 +68,7 @@ Server-side:
 - PG
 
 ## APIs
+
 - Google Maps
 - Google Geocoder
 - Node Cloud Vision
